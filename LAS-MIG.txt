@@ -1,0 +1,12 @@
+VÄRMEKÄLLAN – GITHUB PAGES
+
+1. Packa upp ZIP-filen.
+2. Ladda upp ALLA filer och mappar inuti den till ditt GitHub-repo.
+3. index.html ska ligga direkt i repots rot, bredvid assets, styles.css och site.js.
+4. Välj repots huvudgren och rotmapp i GitHub Pages-inställningarna.
+
+Inga installationer eller byggkommandon behövs. Behåll fil- och mappnamnen.
+
+Paketet innehåller 38 innehållssidor, 10 produktmodeller och 18 PDF-dokument samt alla lokala bilder och typsnitt. Åtta filmer spelas från originalets servrar och kräver internet. Telefon/e-postknappar använder besökarens vanliga appar.
+
+Google: Detta är ett designförslag och paketet behåller noindex för att inte konkurrera med kundens riktiga hemsida. För offentlig kundlansering ska noindex tas bort och canonical, sitemap, delningsbilder och domän ställas in för den slutliga webbadressen. Länkar till den privata förhandsvisningens metadata är borttagna i denna export.
